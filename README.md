@@ -1,5 +1,6 @@
 # docker-node-scss-lint
 
+* Alpine
 * Nodejs@6.x + Yarn
-* Ruby@2.4.0
+* Ruby
 * scss_lint@latest gem
